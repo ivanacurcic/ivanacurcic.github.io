@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <version>190219</version>
+    <url>C:/Users/Korisnik/Desktop/kolokvi3 dm/prokektni zadatak.ove</url>
+    <folders/>
+    <media>
+        <footage id="1" folder="0" name="gif00001.gif" url="gif00001.gif" duration="9510000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="640" height="360" framerate="33.3333333333" infinite="0"/>
+        </footage>
+        <footage id="2" folder="0" name="SVID_20200825_141407_1.mp4" url="../video dm/SVID_20200825_141407_1.mp4" duration="14735000" using_inout="1" in="52" out="360" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="1" width="640" height="1280" framerate="30.0000000000" infinite="0"/>
+            <audio id="0" channels="1" layout="4" frequency="48000"/>
+        </footage>
+        <footage id="3" folder="0" name="VID_81100508_041132_307.mp4" url="../video dm/VID_81100508_041132_307.mp4" duration="14397000" using_inout="1" in="1" out="316" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="480" height="904" framerate="30.0000000000" infinite="0"/>
+            <audio id="1" channels="1" layout="4" frequency="44100"/>
+        </footage>
+        <footage id="4" folder="0" name="VID-20200620-WA0000.mp4" url="../video dm/VID-20200620-WA0000.mp4" duration="11735351" using_inout="1" in="128" out="351" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="320" height="640" framerate="30.0000000000" infinite="0"/>
+            <audio id="1" channels="1" layout="4" frequency="44100"/>
+        </footage>
+        <footage id="5" folder="0" name="VID-20200824-WA0006.mp4" url="../video dm/VID-20200824-WA0006.mp4" duration="14489000" using_inout="1" in="1" out="358" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="720" height="1346" framerate="24.8333333333" infinite="0"/>
+            <audio id="1" channels="1" layout="4" frequency="44100"/>
+        </footage>
+        <footage id="6" folder="0" name="VID-20200824-WA0010.mp4" url="../video dm/VID-20200824-WA0010.mp4" duration="14443000" using_inout="1" in="0" out="157" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="720" height="1346" framerate="16.6666666667" infinite="0"/>
+            <audio id="1" channels="1" layout="4" frequency="44100"/>
+        </footage>
+        <footage id="7" folder="0" name="VID-20200905-WA0002.mp4" url="../video dm/VID-20200905-WA0002.mp4" duration="14582000" using_inout="1" in="131" out="484" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="720" height="1346" framerate="120.0000000000" infinite="0"/>
+            <audio id="1" channels="1" layout="4" frequency="44100"/>
+        </footage>
+        <footage id="8" folder="0" name="VID-20200914-WA0001.mp4" url="../video dm/VID-20200914-WA0001.mp4" duration="14790000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="720" height="1346" framerate="27.0000000000" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="44100"/>
+        </footage>
+        <footage id="9" folder="0" name="VID-20200914-WA0027.mp4" url="../video dm/VID-20200914-WA0027.mp4" duration="15093000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="720" height="1346" framerate="25.4553178375" infinite="0"/>
+            <audio id="1" channels="1" layout="4" frequency="44100"/>
+        </footage>
+        <footage id="10" folder="0" name="luc.jpg" url="../../Pictures/luc.jpg" duration="40000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1024" height="768" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="11" folder="0" name="IMG_20200117_144924.jpg" url="../../Pictures/Saved Pictures/2020-01/IMG_20200117_144924.jpg" duration="40000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="3264" height="2448" framerate="0.0000000000" infinite="1"/>
+        </footage>
+        <footage id="12" folder="0" name="Ceca - Turbulentno - (Official Video 2013) Full HD.mp3" url="../Mario mix/Ceca - Turbulentno - (Official Video 2013) Full HD.mp3" duration="218096327" using_inout="1" in="613" out="2328" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <audio id="0" channels="2" layout="3" frequency="44100"/>
+        </footage>
+    </media>
+    <sequences>
+        <sequence id="1" folder="0" name="Sequence 01" width="640" height="1280" framerate="30.0000000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="SVID_20200825_141407_1.mp4" clipin="130" in="255" out="498" track="-1" r="128" g="128" b="192" autoscale="0" speed="0.4000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="318">
+                            <key value="318" frame="373" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="655">
+                            <key value="655" frame="373" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="VID-20200824-WA0006.mp4" clipin="1" in="656" out="734" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="5" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="317"/>
+                        <field id="posy" value="752"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="92.3438"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="-5"/>
+                        <field id="anchory" value="68"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="VID-20200824-WA0010.mp4" clipin="0" in="1032" out="1146" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
+                <linked>
+                    <link id="4"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="298"/>
+                        <field id="posy" value="1009"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="58.75"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="-84.0625"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="-5"/>
+                        <field id="anchory" value="3"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="0">
+                    <row>
+                        <field id="left" value="0"/>
+                    </row>
+                    <row>
+                        <field id="top" value="0"/>
+                    </row>
+                    <row>
+                        <field id="right" value="0"/>
+                    </row>
+                    <row>
+                        <field id="bottom" value="0"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="0"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Flip" enabled="1">
+                    <row>
+                        <field id="horiz" value="0"/>
+                    </row>
+                    <row>
+                        <field id="vert" value="1"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="4" enabled="1" name="VID-20200620-WA0000.mp4" clipin="94" in="1032" out="1146" track="-2" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+                <linked>
+                    <link id="2"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="317"/>
+                        <field id="posy" value="290"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="97.5"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="-90.3125"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="1">
+                    <row>
+                        <field id="left" value="0"/>
+                    </row>
+                    <row>
+                        <field id="top" value="0"/>
+                    </row>
+                    <row>
+                        <field id="right" value="0"/>
+                    </row>
+                    <row>
+                        <field id="bottom" value="0"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="0"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Flip" enabled="1">
+                    <row>
+                        <field id="horiz" value="0"/>
+                    </row>
+                    <row>
+                        <field id="vert" value="1"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="5" enabled="1" name="VID-20200905-WA0002.mp4" clipin="33" in="1290" out="1378" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="7" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="320"/>
+                        <field id="posy" value="640"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Color/Color Correction" enabled="1">
+                    <row>
+                        <field id="temperature" value="6600"/>
+                    </row>
+                    <row>
+                        <field id="tint" value="-46"/>
+                    </row>
+                    <row>
+                        <field id="exposure" value="0"/>
+                    </row>
+                    <row>
+                        <field id="contrast" value="78"/>
+                    </row>
+                    <row>
+                        <field id="highlights" value="-30"/>
+                    </row>
+                    <row>
+                        <field id="shadows" value="4"/>
+                    </row>
+                    <row>
+                        <field id="whites" value="127"/>
+                    </row>
+                    <row>
+                        <field id="blacks" value="100"/>
+                    </row>
+                    <row>
+                        <field id="saturation" value="100"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="7" enabled="1" name="gif00001.gif" clipin="96" in="0" out="155" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="286"/>
+                        <field id="posy" value="654"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="177.188"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="8" enabled="1" name="SVID_20200825_141407_1.mp4" clipin="149" in="498" out="656" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="2" stream="1">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="318">
+                            <key value="318" frame="149" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="posy" value="655">
+                            <key value="655" frame="149" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="9" enabled="1" name="VID-20200824-WA0006.mp4" clipin="301" in="901" out="1032" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="5" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="317"/>
+                        <field id="posy" value="752"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="92.3438"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="-5"/>
+                        <field id="anchory" value="68"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="10" enabled="1" name="VID-20200824-WA0006.mp4" clipin="53" in="734" out="845" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.5000000000" maintainpitch="0" reverse="0" type="0" media="5" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="317"/>
+                        <field id="posy" value="752"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="92.3438"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="-5"/>
+                        <field id="anchory" value="68"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="11" enabled="1" name="VID-20200824-WA0006.mp4" clipin="245" in="845" out="901" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="5" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="317"/>
+                        <field id="posy" value="752"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="92.3438"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="-5"/>
+                        <field id="anchory" value="68"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Blur/Gaussian Blur" enabled="0">
+                    <row>
+                        <field id="sigma" value="5.5"/>
+                    </row>
+                    <row>
+                        <field id="horiz_blur" value="1"/>
+                    </row>
+                    <row>
+                        <field id="vert_blur" value="1"/>
+                    </row>
+                </effect>
+                <effect name="Color/Color Correction" enabled="1">
+                    <row>
+                        <field id="temperature" value="6736"/>
+                    </row>
+                    <row>
+                        <field id="tint" value="-15"/>
+                    </row>
+                    <row>
+                        <field id="exposure" value="5"/>
+                    </row>
+                    <row>
+                        <field id="contrast" value="85"/>
+                    </row>
+                    <row>
+                        <field id="highlights" value="-214"/>
+                    </row>
+                    <row>
+                        <field id="shadows" value="-7"/>
+                    </row>
+                    <row>
+                        <field id="whites" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blacks" value="100"/>
+                    </row>
+                    <row>
+                        <field id="saturation" value="100"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="12" enabled="1" name="VID-20200824-WA0010.mp4" clipin="114" in="1146" out="1290" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="6" stream="0">
+                <linked>
+                    <link id="13"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="298"/>
+                        <field id="posy" value="1009"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="58.75"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="-84.0625"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="-5"/>
+                        <field id="anchory" value="3"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="0">
+                    <row>
+                        <field id="left" value="0"/>
+                    </row>
+                    <row>
+                        <field id="top" value="0"/>
+                    </row>
+                    <row>
+                        <field id="right" value="0"/>
+                    </row>
+                    <row>
+                        <field id="bottom" value="0"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="0"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Flip" enabled="1">
+                    <row>
+                        <field id="horiz" value="0"/>
+                    </row>
+                    <row>
+                        <field id="vert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="13" enabled="1" name="VID-20200620-WA0000.mp4" clipin="208" in="1146" out="1290" track="-2" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="4" stream="0">
+                <linked>
+                    <link id="12"/>
+                </linked>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="317"/>
+                        <field id="posy" value="290"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="97.5"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="-90.3125"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Distort/Crop" enabled="1">
+                    <row>
+                        <field id="left" value="0"/>
+                    </row>
+                    <row>
+                        <field id="top" value="0"/>
+                    </row>
+                    <row>
+                        <field id="right" value="0"/>
+                    </row>
+                    <row>
+                        <field id="bottom" value="0"/>
+                    </row>
+                    <row>
+                        <field id="feather" value="0"/>
+                    </row>
+                    <row>
+                        <field id="invert" value="0"/>
+                    </row>
+                </effect>
+                <effect name="Distort/Flip" enabled="1">
+                    <row>
+                        <field id="horiz" value="0"/>
+                    </row>
+                    <row>
+                        <field id="vert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="14" enabled="1" name="luc.jpg" clipin="0" in="155" out="205" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="319"/>
+                        <field id="posy" value="305"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="53.4375"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Distort/Flip" enabled="1">
+                    <row>
+                        <field id="horiz" value="1"/>
+                    </row>
+                    <row>
+                        <field id="vert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="15" enabled="1" name="IMG_20200117_144924.jpg" clipin="0" in="155" out="205" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="326"/>
+                        <field id="posy" value="786"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="16.5625"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Distort/Flip" enabled="1">
+                    <row>
+                        <field id="horiz" value="1"/>
+                    </row>
+                    <row>
+                        <field id="vert" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="16" enabled="1" name="IMG_20200117_144924.jpg" clipin="50" in="205" out="255" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="11" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="326"/>
+                        <field id="posy" value="786"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="16.5625"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="17" enabled="1" name="luc.jpg" clipin="50" in="205" out="255" track="-1" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="10" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="319"/>
+                        <field id="posy" value="305"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="53.4375"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="18" enabled="1" name="Title" clipin="0" in="0" out="155" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="335"/>
+                        <field id="posy" value="654"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'MS Gothic'; font-size:40pt; font-weight:600;&quot;&gt;Ivana Ćurčić- Digitalni multimedij 1&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="32"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="19" enabled="1" name="Title" clipin="0" in="584" out="954" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="320"/>
+                        <field id="posy" value="640"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:36pt;&quot;&gt;Par sekundi prošlog ljeta koje je bilo zabavno, ludo i nezaboravno....&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="2"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="20" enabled="1" name="Ceca - Turbulentno - (Official Video 2013) Full HD.mp3" clipin="51" in="0" out="69" track="0" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="23" enabled="1" name="Ceca - Turbulentno - (Official Video 2013) Full HD.mp3" clipin="1128" in="69" out="1378" track="0" r="128" g="192" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="12" stream="0">
+                <linked/>
+                <effect name="/Volume" enabled="1">
+                    <row>
+                        <field id="volume" value="1"/>
+                    </row>
+                </effect>
+                <effect name="/Pan" enabled="1">
+                    <row>
+                        <field id="pan" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+    </sequences>
+</project>
